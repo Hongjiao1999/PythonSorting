@@ -1,4 +1,5 @@
-冒泡排序
+冒泡排序    
+!(https://mmbiz.qpic.cn/mmbiz_gif/gPtPSmYD36icQUAWgkUI4rc6ss1VauypLOnkZr6sTCxbFluJnLicV3u28QZGeBqNvJwvQMCCdEsrP2TAyoQULHZQ/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 ## 
     1、比较相邻的元素。如果第一个比第二个大，就交换他们两个。
 
@@ -7,6 +8,7 @@
     3、针对所有的元素重复以上的步骤，除了最后一个。
 
     4、持续每次对越来越少的元素重复上面的步骤，直到没有任何一对数字需要比较。
-    !(https://mmbiz.qpic.cn/mmbiz_gif/gPtPSmYD36icQUAWgkUI4rc6ss1VauypLOnkZr6sTCxbFluJnLicV3u28QZGeBqNvJwvQMCCdEsrP2TAyoQULHZQ/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 ##
+
+
 
