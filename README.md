@@ -13,6 +13,7 @@
 选择排序
 ##
 ![gif](https://github.com/Hongjiao1999/PythonSorting/blob/master/%E9%80%89%E6%8B%A9%E6%BC%94%E7%A4%BA.gif)
+
     1、首先在未排序序列中找到最小（大）元素，存放到排序序列的起始位置
 
     2、再从剩余未排序元素中继续寻找最小（大）元素，然后放到已排序序列的末尾。
