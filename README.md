@@ -1,5 +1,5 @@
 冒泡排序    
-!(https://raw.githubusercontent.com/Hongjiao1999/PythonSorting/master/%E5%86%92%E6%B3%A1%E6%BC%94%E7%A4%BA.gif)
+!(https://github.com/Hongjiao1999/PythonSorting/blob/master/%E5%86%92%E6%B3%A1%E6%BC%94%E7%A4%BA.gif)
 ## 
     1、比较相邻的元素。如果第一个比第二个大，就交换他们两个。
 
