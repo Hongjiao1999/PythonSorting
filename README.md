@@ -1,6 +1,7 @@
-冒泡排序    
-![gif](https://github.com/Hongjiao1999/PythonSorting/blob/master/%E5%86%92%E6%B3%A1%E6%BC%94%E7%A4%BA.gif)
+冒泡排序
 ## 
+![gif](https://github.com/Hongjiao1999/PythonSorting/blob/master/%E5%86%92%E6%B3%A1%E6%BC%94%E7%A4%BA.gif)
+
     1、比较相邻的元素。如果第一个比第二个大，就交换他们两个。
 
     2、对每一对相邻元素作同样的工作，从开始第一对到结尾的最后一对。这步做完后，最后的元素会是最大的数。
