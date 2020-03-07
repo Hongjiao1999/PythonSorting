@@ -21,6 +21,7 @@
     3、重复第二步，直到所有元素均排序完毕。
 ##
 插入排序
+##
 ![gif](https://github.com/Hongjiao1999/PythonSorting/blob/master/%E6%8F%92%E5%85%A5%E6%BC%94%E7%A4%BA.gif)
 
     1、将第一待排序序列第一个元素看做一个有序序列，把第二个元素到最后一个元素当成是未排序序列。
